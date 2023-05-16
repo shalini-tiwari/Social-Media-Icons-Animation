@@ -1,1 +1,1 @@
-Simple Social Media Icons using Html And css.
+![Social-Media-Icons-Animation](https://socialify.git.ci/shalini-tiwari/Social-Media-Icons-Animation/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Auto)
